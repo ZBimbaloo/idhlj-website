@@ -25,18 +25,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          # 显式关闭缓存检测（避免没 lock 文件时报错）
-          cache: false
+          cache: npm
+          cache-dependency-path: website/package-lock.json
 
       - name: Install dependencies
         working-directory: website
-        run: |
-          if [ -f package-lock.json ]; then
-            npm ci
-          else
-            echo "::warning::no package-lock.json, using npm install"
-            npm install --legacy-peer-deps
-          fi
+        run: npm ci
 
       - name: Build static site
         working-directory: website
