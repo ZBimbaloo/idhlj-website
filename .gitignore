@@ -1,0 +1,37 @@
+# IDE / OS
+.history/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+PT. PRIMA COCO INDONUSA
+
+# Tools（下载的 Node 20 等）
+tools/
+
+# 部署打包
+deploy.tar.gz
+
+# 根目录源文件（不忽略，文档要提交）
+# 印尼官网需求文档.md
+# 素材缺失文档.md
+# 部署文档.md
+
+# 文档生成脚本（不忽略，留作维护用）
+# md_to_docx.py
+# md_to_pdf_gh.py
+# md_to_pdf.py
+
+# Next.js
+website/node_modules/
+website/.next/
+website/out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env
+.env
+.env.local
+.env.production.local

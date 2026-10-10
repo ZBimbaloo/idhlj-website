@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-sand-50 text-neutral-800 antialiased;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight text-neutral-900;
+  }
+
+  a {
+    @apply transition-colors;
+  }
+}
+
+@layer components {
+  .container-narrow {
+    @apply mx-auto w-full max-w-container px-4 sm:px-6 lg:px-8;
+  }
+
+  .section {
+    @apply py-16 md:py-24;
+  }
+
+  .section-sm {
+    @apply py-10 md:py-16;
+  }
+
+  .eyebrow {
+    @apply inline-block text-xs font-semibold uppercase tracking-[0.2em] text-brand-600;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-medium transition-all;
+  }
+
+  .btn-primary {
+    @apply btn bg-brand-500 text-white hover:bg-brand-600 shadow-sm hover:shadow-md;
+  }
+
+  .btn-secondary {
+    @apply btn border border-neutral-300 bg-white text-neutral-800 hover:border-brand-500 hover:text-brand-600;
+  }
+
+  .btn-ghost {
+    @apply btn text-neutral-700 hover:text-brand-600;
+  }
+
+  .card {
+    @apply rounded-2xl border border-neutral-200 bg-white shadow-sm hover:shadow-lg;
+    @apply transition-all duration-300;
+  }
+
+  .image-frame {
+    @apply overflow-hidden rounded-2xl bg-neutral-100;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer utilities {
+  .bg-grid-pattern {
+    background-image:
+      linear-gradient(rgba(0,0,0,0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,0,0,0.04) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  .mask-fade-bottom {
+    -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+    mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+  }
+}
+
+/* Hero slideshow animations — global so they survive SSR */
+@keyframes kenburns {
+  0% {
+    transform: scale(1) translate(0, 0);
+  }
+  100% {
+    transform: scale(1.08) translate(-1%, -1%);
+  }
+}
+
+@keyframes hero-progress {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* Utility class — guarantees availability regardless of Tailwind JIT */
+.animate-kenburns {
+  animation: kenburns 8s ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  @keyframes kenburns {
+    0%,
+    100% {
+      transform: none;
+    }
+  }
+  @keyframes hero-progress {
+    from,
+    to {
+      width: 100%;
+    }
+  }
+  .animate-kenburns {
+    animation: none;
+  }
+}

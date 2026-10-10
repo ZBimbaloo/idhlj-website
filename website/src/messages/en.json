@@ -1,0 +1,548 @@
+{
+  "common": {
+    "brand": "Huanlejia Indonesia",
+    "brandGroup": "Huanlejia Group",
+    "tagline": "Your Trusted Partner for Coconut Products from Indonesia",
+    "companyName": "PT. PRIMA COCO INDONUSA",
+    "companyShort": "Prima Coco",
+    "country": "Indonesia",
+    "viewMore": "View more",
+    "learnMore": "Learn more",
+    "getQuote": "Request a Quote",
+    "contactUs": "Contact Us",
+    "downloadPdf": "Download PDF",
+    "exploreProducts": "Explore Products",
+    "exploreFactory": "Explore the Factory",
+    "backToTop": "Back to top",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "workingHours": "Working Hours",
+    "languageSwitch": "EN",
+    "languageAlt": "ID",
+    "allRights": "All rights reserved."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "group": "Group",
+    "factory": "Factory",
+    "products": "Products",
+    "quality": "Quality",
+    "sales": "Sales Network",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroEyebrow": "Huanlejia Group · Indonesia",
+    "heroTitle": "Premium Coconut Products from the Heart of Indonesia",
+    "heroSubtitle": "Backed by a listed Chinese food group, PT. Prima Coco Indonusa delivers authentic Indonesian coconut ingredients to the world — with reliable quality, certified processes and a global sales network.",
+    "heroCtaPrimary": "Request a Quote",
+    "heroCtaSecondary": "Explore Products",
+    "heroSlides": [
+      {
+        "eyebrow": "Huanlejia Group · Indonesia",
+        "title": "Premium Coconut Products from the Heart of Indonesia",
+        "subtitle": "Backed by a listed Chinese food group, PT. Prima Coco Indonusa delivers authentic Indonesian coconut ingredients to the world — with reliable quality and certified processes."
+      },
+      {
+        "eyebrow": "Modern Production",
+        "title": "Made in Indonesia, Made with Care",
+        "subtitle": "Step inside our facility — from raw material reception to packaging and warehousing, every step is built for freshness and safety."
+      },
+      {
+        "eyebrow": "Coconut Range",
+        "title": "Coconut, the Way You Need It",
+        "subtitle": "Coconut water, milk & cream, desiccated coconut and virgin coconut oil — for retail, foodservice and industrial buyers worldwide."
+      },
+      {
+        "eyebrow": "Global Reach",
+        "title": "A Listed Food Group with Global Reach",
+        "subtitle": "Part of Huanlejia Food Group (300997.SZ) — operations across China, Vietnam, Thailand and Indonesia, trusted by B2B partners in 30+ countries."
+      }
+    ],
+    "whyEyebrow": "Why Choose Us",
+    "whyTitle": "A Trusted Coconut Partner",
+    "whySubtitle": "From Indonesian plantations to global shelves — quality, capacity and service that grows with you.",
+    "whyItems": [
+      {
+        "title": "Reliable Capacity",
+        "description": "Modern facilities with stable monthly output, ready for large-volume global orders."
+      },
+      {
+        "title": "Certified Quality",
+        "description": "Halal, HACCP, ISO and full Indonesian regulatory compliance at every production stage."
+      },
+      {
+        "title": "One-Stop Service",
+        "description": "From raw material selection to packaging, export documents and after-sales — we handle it all."
+      }
+    ],
+    "productsEyebrow": "Our Products",
+    "productsTitle": "Coconut, the Way You Need It",
+    "productsSubtitle": "Coconut water, milk & cream, desiccated coconut and virgin coconut oil — for retail, foodservice and industrial buyers.",
+    "factoryEyebrow": "Our Factory",
+    "factoryTitle": "Made in Indonesia, Made with Care",
+    "factorySubtitle": "Step inside our facility — from raw material reception to packaging and warehousing.",
+    "factoryVideoCaption": "Factory & workshop walkthrough",
+    "groupEyebrow": "Part of Huanlejia Group",
+    "groupTitle": "A Listed Food Group with Global Reach",
+    "groupSubtitle": "PT. Prima Coco Indonusa is part of Huanlejia Food Group (300997.SZ), a publicly listed Chinese food manufacturer with decades of expertise and operations across Asia.",
+    "groupCta": "Discover the Group",
+    "contactEyebrow": "Get in Touch",
+    "contactTitle": "Talk to Our Sales Team",
+    "contactSubtitle": "Tell us what you need — our customer representative will reply within 2 business days."
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "A New Chapter for Coconut",
+    "subtitle": "Discover who we are — a young Indonesian producer backed by decades of group expertise.",
+    "companyIntroTitle": "Company at a Glance",
+    "companyIntroBody": "PT. Prima Coco Indonusa is a coconut product manufacturer based in Indonesia, part of Huanlejia Food Group (300997.SZ). We focus on producing premium coconut ingredients — coconut water, coconut milk & cream, desiccated coconut and virgin coconut oil — for global B2B customers in food, beverage and personal care industries.",
+    "groupTitle": "About Huanlejia Group",
+    "groupBody": "Huanlejia Food Group is a leading Chinese food manufacturer listed on the Shenzhen Stock Exchange (Stock Code: 300997). With decades of expertise in canned food and beverage, the group has built a multi-category portfolio and is expanding its global footprint with operations across China, Vietnam, Thailand and Indonesia.",
+    "indonesiaTitle": "About PT. Prima Coco Indonusa",
+    "indonesiaBody": "Established as the group's coconut production hub in Indonesia, PT. Prima Coco Indonusa leverages local agricultural resources and modern processing lines to serve customers worldwide. We combine Indonesian raw material advantages with the group's quality systems and international sales experience.",
+    "timelineTitle": "Milestones",
+    "timeline": [
+      { "year": "2001", "title": "Huanlejia founded in China", "description": "Group origins in food and beverage manufacturing." },
+      { "year": "2010", "title": "Canned fruit leadership", "description": "Recognised as a top canned-fruit brand in China." },
+      { "year": "2016", "title": "PT. Prima Coco Indonesia established", "description": "Coconut production hub founded on 19 February 2016 in Sumatera Utara, Indonesia." },
+      { "year": "2021", "title": "Listed on Shenzhen Stock Exchange", "description": "Stock Code: 300997 — publicly listed food group." },
+      { "year": "2023", "title": "Global expansion", "description": "Sales networks across Southeast Asia, Middle East and beyond." },
+      { "year": "Today", "title": "Your coconut partner", "description": "Reliable supplier serving B2B customers worldwide." }
+    ]
+  },
+  "group": {
+    "eyebrow": "Our Group",
+    "title": "Huanlejia Group Worldwide",
+    "subtitle": "A global food group with operations across Asia — and a growing international footprint.",
+    "intro": "Huanlejia Food Group (Shenzhen Stock Exchange: 300997) is the parent company of PT. Prima Coco Indonusa. Headquartered in China, the group operates production facilities in China, Vietnam, Thailand and Indonesia — covering canned food, beverages and coconut-based ingredients.",
+    "statsTitle": "Group in Numbers",
+    "stats": [
+      { "value": "300997.SZ", "label": "Listed on Shenzhen Stock Exchange" },
+      { "value": "20+", "label": "Years of food expertise" },
+      { "value": "4", "label": "Countries with operations" },
+      { "value": "Global", "label": "Sales to 30+ countries" }
+    ],
+    "subsidiariesTitle": "Our Subsidiaries",
+    "subsidiaries": [
+      {
+        "name": "Huanlejia Food Group",
+        "nameLocal": "欢乐家食品集团股份有限公司",
+        "country": "China",
+        "role": "Headquarters",
+        "description": "Group headquarters and core production base — canned food, beverages and snack products.",
+        "website": "https://www.gdhlj.com/"
+      },
+      {
+        "name": "Huanlejia Vietnam",
+        "nameLocal": "Huanlejia Co., Ltd.",
+        "country": "Vietnam",
+        "role": "Production & Sales",
+        "description": "Southeast Asia production and sales hub serving local and export markets.",
+        "website": "#"
+      },
+      {
+        "name": "Huanlejia Thailand",
+        "nameLocal": "Huanlejia (Thailand) Co., Ltd.",
+        "country": "Thailand",
+        "role": "Production & Sales",
+        "description": "Regional production facility serving food and beverage manufacturers in the region.",
+        "website": "#"
+      },
+      {
+        "name": "PT. Prima Coco Indonusa",
+        "nameLocal": "PT. Prima Coco Indonusa",
+        "country": "Indonesia",
+        "role": "Coconut Production",
+        "description": "The group's coconut product production hub — premium coconut ingredients for global B2B customers.",
+        "website": "https://id.gdhlj.com/"
+      }
+    ]
+  },
+  "factory": {
+    "eyebrow": "Our Factory",
+    "title": "Inside Our Facility",
+    "subtitle": "Modern processing lines, strict quality control, and a deep respect for raw materials.",
+    "intro": "Our production facility is located in Kabupaten Langkat, Sumatera Utara, Indonesia. It brings together modern processing technology with strict food-safety management. Every batch is traceable from raw material to finished product.",
+    "locationTitle": "Plant Location",
+    "locationLine": "Kabupaten Langkat, Sumatera Utara, Indonesia",
+    "registeredOfficeTitle": "Registered Office",
+    "registeredOfficeLine": "Jl. Kapt Pattimura No.92/356-A, Kota Medan",
+    "statsTitle": "Capacity at a Glance",
+    "statsNote": "Figures to be confirmed by operations team.",
+    "stats": [
+      { "value": "—", "label": "Tons annual capacity" },
+      { "value": "—", "label": "Automated lines" },
+      { "value": "—", "label": "Skilled employees" },
+      { "value": "—", "label": "Quality monitoring" }
+    ],
+    "processTitle": "From Coconut to Container",
+    "processSubtitle": "Every step of the production chain — designed for freshness, safety and consistency.",
+    "process": [
+      { "step": "01", "title": "Raw Material Reception", "description": "Selected coconuts from local plantations — strict grading on arrival." },
+      { "step": "02", "title": "Cracking & Extraction", "description": "Clean cracking and hygienic extraction to preserve natural quality." },
+      { "step": "03", "title": "Washing & Filtering", "description": "Multi-stage washing and filtration for clean, pure output." },
+      { "step": "04", "title": "Sterilisation", "description": "High-temperature sterilisation to ensure food safety and shelf stability." },
+      { "step": "05", "title": "Filling & Sealing", "description": "Aseptic filling and sealing to lock in freshness and flavour." },
+      { "step": "06", "title": "Packaging & Warehousing", "description": "Packed to customer specs and stored in climate-controlled warehouses." }
+    ],
+    "galleryTitle": "Factory Gallery",
+    "videoTitle": "Watch the Walkthrough",
+    "videoSubtitle": "Take a 60-second tour through our Indonesian facility."
+  },
+  "products": {
+    "eyebrow": "Our Products",
+    "title": "Coconut, the Way You Need It",
+    "subtitle": "A focused range of premium coconut ingredients — for retail, foodservice and industrial buyers.",
+    "categoriesTitle": "Product Categories",
+    "listTitle": "All Products",
+    "specsTitle": "Specifications",
+    "downloadTitle": "Download Product Sheets",
+    "downloadSubtitle": "Detailed specification sheets available for every product line.",
+    "categories": [
+      {
+        "key": "water",
+        "name": "Coconut Water",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fresh%20coconut%20water%20in%20a%20clear%20glass%20bottle%20on%20tropical%20background%20product%20photography&image_size=square",
+        "description": "Pure, hydrating coconut water packed at the peak of harvest."
+      },
+      {
+        "key": "milk",
+        "name": "Coconut Milk & Cream",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20milk%20cream%20in%20a%20white%20can%20package%20product%20photography%20studio%20lighting&image_size=square",
+        "description": "Rich, smooth milk and cream for cooking and food manufacturing."
+      },
+      {
+        "key": "desiccated",
+        "name": "Desiccated Coconut",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=desiccated%20coconut%20flakes%20in%20a%20paper%20bag%20package%20product%20photography&image_size=square",
+        "description": "Finely shredded and graded desiccated coconut for bakery and confectionery."
+      },
+      {
+        "key": "oil",
+        "name": "Virgin Coconut Oil",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=virgin%20coconut%20oil%20in%20glass%20bottle%20product%20photography%20studio%20lighting&image_size=square",
+        "description": "Cold-pressed virgin coconut oil for food, cosmetic and wellness use."
+      }
+    ],
+    "items": [
+      {
+        "id": "cw-330",
+        "category": "water",
+        "name": "Coconut Water 330ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20water%20tetra%20pack%20330ml%20product%20photography%20white%20background&image_size=square",
+        "summary": "Pure coconut water in convenient 330ml packaging.",
+        "specs": {
+          "netWeight": "330ml",
+          "brix": "5.0 – 6.5°",
+          "shelfLife": "12 months",
+          "storage": "Ambient, dry and cool place",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      },
+      {
+        "id": "cw-500",
+        "category": "water",
+        "name": "Coconut Water 500ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20water%20bottle%20500ml%20product%20photography%20white%20background&image_size=square",
+        "summary": "Pure coconut water in family-size 500ml packaging.",
+        "specs": {
+          "netWeight": "500ml",
+          "brix": "5.0 – 6.5°",
+          "shelfLife": "12 months",
+          "storage": "Ambient, dry and cool place",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      },
+      {
+        "id": "cm-400",
+        "category": "milk",
+        "name": "Coconut Milk 400ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20milk%20can%20400ml%20product%20photography%20studio%20lighting&image_size=square",
+        "summary": "Rich coconut milk in convenient 400ml can.",
+        "specs": {
+          "netWeight": "400ml",
+          "fat": "17 – 19%",
+          "shelfLife": "24 months",
+          "storage": "Ambient, dry and cool place",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      },
+      {
+        "id": "dc-medium",
+        "category": "desiccated",
+        "name": "Desiccated Coconut — Medium",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=desiccated%20coconut%20medium%20grade%20in%20package%20product%20photography&image_size=square",
+        "summary": "Medium-grade desiccated coconut, perfect for bakery and confectionery.",
+        "specs": {
+          "netWeight": "25 kg / 50 lb bag",
+          "moisture": "< 3%",
+          "shelfLife": "12 months",
+          "storage": "Cool, dry place",
+          "certification": "Halal, HACCP"
+        }
+      },
+      {
+        "id": "vco-500",
+        "category": "oil",
+        "name": "Virgin Coconut Oil 500ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=virgin%20coconut%20oil%20glass%20bottle%20500ml%20product%20photography&image_size=square",
+        "summary": "Cold-pressed virgin coconut oil in premium 500ml glass bottle.",
+        "specs": {
+          "netWeight": "500ml",
+          "fat": "100% coconut oil",
+          "shelfLife": "24 months",
+          "storage": "Cool, dry place away from direct sunlight",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      }
+    ]
+  },
+  "quality": {
+    "eyebrow": "Quality & Certifications",
+    "title": "Certified at Every Stage",
+    "subtitle": "We operate under strict international and Indonesian regulatory frameworks.",
+    "introTitle": "Quality You Can Verify",
+    "intro": "From raw material inspection to finished product release, every step follows documented procedures. Our facility is regularly audited by international and Indonesian regulatory bodies.",
+    "viewDoc": "View Document",
+    "downloadDoc": "Download",
+    "availableOnRequest": "Available upon request",
+    "categories": {
+      "food": "Food & Quality",
+      "business": "Business & Trading",
+      "environment": "Environment & Safety",
+      "labour": "Labour & Compliance"
+    },
+    "items": [
+      {
+        "name": "Halal Certificate",
+        "category": "food",
+        "issuer": "BPJPH / MUI",
+        "description": "Certified halal by authorised Indonesian halal authority.",
+        "status": "on-request"
+      },
+      {
+        "name": "HACCP",
+        "category": "food",
+        "issuer": "International Body",
+        "description": "Hazard Analysis and Critical Control Points food safety management.",
+        "status": "on-request"
+      },
+      {
+        "name": "ISO 22000",
+        "category": "food",
+        "issuer": "International Body",
+        "description": "Food safety management system certification.",
+        "status": "on-request"
+      },
+      {
+        "name": "BPOM",
+        "category": "food",
+        "issuer": "BPOM Indonesia",
+        "description": "Indonesian food and drug authority registration.",
+        "status": "on-request"
+      },
+      {
+        "name": "NIB OSS",
+        "category": "business",
+        "issuer": "Indonesian Government (OSS)",
+        "description": "Business Identification Number 8120000912538 — risk-based licensing standard under OSS system (issued 5 April 2022).",
+        "file": "/certificates/nib-oss.pdf"
+      },
+      {
+        "name": "Izin Komersial (Operasional)",
+        "category": "business",
+        "issuer": "Indonesian Government",
+        "description": "Commercial / Operational Licence — risk-based approval per OSS RBA.",
+        "file": "/certificates/izin-komersial.pdf"
+      },
+      {
+        "name": "SIUP — Surat Izin Usaha Perdagangan",
+        "category": "business",
+        "issuer": "Indonesian Government",
+        "description": "Trading Business Licence — major scale (Besar).",
+        "file": "/certificates/siup.pdf"
+      },
+      {
+        "name": "Izin Lokasi",
+        "category": "business",
+        "issuer": "BKPM / Indonesian Government",
+        "description": "Location permit for the production facility.",
+        "file": "/certificates/izin-lokasi.pdf"
+      },
+      {
+        "name": "Izin Lingkungan",
+        "category": "environment",
+        "issuer": "Dinas Lingkungan Hidup",
+        "description": "Environmental permit issued by the local Environmental Agency.",
+        "file": "/certificates/izin-lingkungan.pdf"
+      },
+      {
+        "name": "UKL-UPL",
+        "category": "environment",
+        "issuer": "Dinas Lingkungan Hidup",
+        "description": "Environmental Management and Monitoring Plan — required under Indonesian environmental law.",
+        "file": "/certificates/ukl-upl.pdf"
+      },
+      {
+        "name": "IPAL — Izin Pembuangan Air Limbah",
+        "category": "environment",
+        "issuer": "Indonesian Government",
+        "description": "Wastewater disposal permit for our treatment facility (issued 22 September 2020).",
+        "file": "/certificates/ipal.pdf"
+      },
+      {
+        "name": "Sertifikat Laik Operasi",
+        "category": "environment",
+        "issuer": "Indonesian Government",
+        "description": "Operational feasibility certificate confirming safe production conditions.",
+        "file": "/certificates/sertifikat-laik-operasi.pdf"
+      },
+      {
+        "name": "Izin Pengusahaan Air Tanah",
+        "category": "environment",
+        "issuer": "Dinas ESDM",
+        "description": "Groundwater extraction permit (valid 26 Aug 2026 – 26 Aug 2030).",
+        "file": "/certificates/izin-air-tanah.pdf"
+      },
+      {
+        "name": "DISNAKER",
+        "category": "labour",
+        "issuer": "Dinas Tenaga Kerja",
+        "description": "Manpower / labour compliance report (valid 23 Jan 2024 – 24 Jan 2026).",
+        "file": "/certificates/disnaker.pdf"
+      },
+      {
+        "name": "BPJS Kesehatan",
+        "category": "labour",
+        "issuer": "BPJS Indonesia",
+        "description": "Employee health social security registration.",
+        "file": "/certificates/bpjs-kesehatan.pdf"
+      },
+      {
+        "name": "BPJS Ketenagakerjaan",
+        "category": "labour",
+        "issuer": "BPJS Indonesia",
+        "description": "Employee employment social security registration.",
+        "file": "/certificates/bpjs-ketenagakerjaan.pdf"
+      },
+      {
+        "name": "Surat Izin Tempat Usaha (SITU)",
+        "category": "business",
+        "issuer": "Indonesian Government",
+        "description": "Business-premises permit for the operating location.",
+        "file": "/certificates/situ.pdf"
+      },
+      {
+        "name": "Surat Izin Mendirikan Bangunan (SIMB)",
+        "category": "business",
+        "issuer": "Indonesian Government",
+        "description": "Building construction permit for the factory structure.",
+        "file": "/certificates/simb.pdf"
+      },
+      {
+        "name": "Izin Gangguan (HO)",
+        "category": "business",
+        "issuer": "Indonesian Government",
+        "description": "Public-disturbance permit for operational activities.",
+        "file": "/certificates/izin-gangguan.pdf"
+      },
+      {
+        "name": "Surat Keterangan Domisili Usaha",
+        "category": "business",
+        "issuer": "Indonesian Government",
+        "description": "Business domicile certificate for the company.",
+        "file": "/certificates/domisili-usaha.pdf"
+      },
+      {
+        "name": "Tanda Daftar Perusahaan (TDP)",
+        "category": "business",
+        "issuer": "Indonesian Government",
+        "description": "Company registration certificate.",
+        "file": "/certificates/tanda-daftar-perusahaan.pdf"
+      },
+      {
+        "name": "Akta Pendirian PT",
+        "category": "business",
+        "issuer": "Notaris",
+        "description": "Founding deed of PT. Prima Coco Indonusa — 19 February 2016.",
+        "file": "/certificates/akta-pendirian.pdf"
+      },
+      {
+        "name": "AHU Pengesahan Pendirian",
+        "category": "business",
+        "issuer": "Kementerian Hukum dan HAM",
+        "description": "Ministry of Law & Human Rights ratification of company establishment.",
+        "file": "/certificates/ahu-pengesahan.pdf"
+      }
+    ]
+  },
+  "sales": {
+    "eyebrow": "Sales Network",
+    "title": "From Indonesia to the World",
+    "subtitle": "We serve B2B customers across Southeast Asia, the Middle East, Europe, the Americas and beyond.",
+    "intro": "PT. Prima Coco Indonusa exports coconut ingredients to distributors, manufacturers and brand owners worldwide. Tell us your market — we'll find the best route.",
+    "regionsTitle": "Key Regions",
+    "regions": [
+      { "name": "Southeast Asia", "description": "Distributors and food manufacturers across ASEAN." },
+      { "name": "Middle East & Africa", "description": "Foodservice, retail and industrial buyers." },
+      { "name": "Europe", "description": "Specialty importers and certified food brands." },
+      { "name": "Americas", "description": "Wholesale and private-label partners." },
+      { "name": "Greater China", "description": "Direct supply to Huanlejia Group networks." }
+    ],
+    "channelTitle": "Channels We Serve",
+    "channels": [
+      { "title": "Distributors & Wholesalers", "description": "Bulk supply with consistent quality and on-time delivery." },
+      { "title": "Food & Beverage Manufacturers", "description": "Industrial-grade ingredients with full spec sheets and certificates." },
+      { "title": "Foodservice Operators", "description": "Restaurant chains, catering and hospitality supply." },
+      { "title": "Retail & Private Label", "description": "Customisable packaging for retail brands and private labels." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact Us",
+    "title": "Let's Talk Business",
+    "subtitle": "Send us a message — our sales representative will reply within 2 business days.",
+    "infoTitle": "Reach Us Directly",
+    "addressLabel": "Registered Office",
+    "addressLine": "Jl. Kapt Pattimura No.92/356-A, Medan Baru",
+    "cityLine": "Kota Medan, Sumatera Utara, Indonesia",
+    "officeHours": "Monday – Friday · 08:00 – 17:00 WIB",
+    "whatsappLabel": "Chat on WhatsApp",
+    "legalTitle": "Legal & Tax Identifiers",
+    "legalCompanyName": "PT. Prima Coco Indonusa",
+    "legalCompanyLabel": "Legal Entity",
+    "legalNpwpLabel": "NPWP",
+    "legalNpwp": "75.607.625.3-121.000",
+    "legalNibLabel": "NIB (OSS)",
+    "legalNib": "8120000912538",
+    "legalKppLabel": "Tax Office",
+    "legalKpp": "KPP Pratama Medan Polonia",
+    "legalFoundedLabel": "Established",
+    "legalFounded": "19 February 2016",
+    "form": {
+      "name": "Full Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone / WhatsApp",
+      "country": "Country / Region",
+      "product": "Product of Interest",
+      "message": "Your Message",
+      "submit": "Send Inquiry",
+      "sending": "Sending...",
+      "success": "Thank you — we have received your inquiry and will get back to you soon.",
+      "required": "Required"
+    },
+    "formTitle": "Send an Inquiry"
+  },
+  "footer": {
+    "tagline": "Premium coconut ingredients — from Indonesia to the world.",
+    "company": "Company",
+    "products": "Products",
+    "contact": "Contact",
+    "newsletter": "Stay in Touch",
+    "newsletterPlaceholder": "Your email",
+    "subscribe": "Subscribe",
+    "partOf": "Part of"
+  }
+}

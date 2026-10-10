@@ -1,0 +1,548 @@
+{
+  "common": {
+    "brand": "Huanlejia Indonesia",
+    "brandGroup": "Huanlejia Group",
+    "tagline": "Mitra Tepercaya Anda untuk Produk Kelapa dari Indonesia",
+    "companyName": "PT. PRIMA COCO INDONUSA",
+    "companyShort": "Prima Coco",
+    "country": "Indonesia",
+    "viewMore": "Lihat selengkapnya",
+    "learnMore": "Pelajari lebih lanjut",
+    "getQuote": "Minta Penawaran",
+    "contactUs": "Hubungi Kami",
+    "downloadPdf": "Unduh PDF",
+    "exploreProducts": "Lihat Produk",
+    "exploreFactory": "Lihat Pabrik",
+    "backToTop": "Kembali ke atas",
+    "phone": "Telepon",
+    "email": "Email",
+    "address": "Alamat",
+    "workingHours": "Jam Kerja",
+    "languageSwitch": "ID",
+    "languageAlt": "EN",
+    "allRights": "Hak cipta dilindungi undang-undang."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "group": "Grup",
+    "factory": "Pabrik",
+    "products": "Produk",
+    "quality": "Kualitas",
+    "sales": "Jaringan Penjualan",
+    "contact": "Kontak"
+  },
+  "home": {
+    "heroEyebrow": "Huanlejia Group · Indonesia",
+    "heroTitle": "Produk Kelapa Premium dari Jantung Indonesia",
+    "heroSubtitle": "Didukung oleh grup makanan publik asal China, PT. Prima Coco Indonusa menyajikan bahan kelapa Indonesia berkualitas ke seluruh dunia — dengan mutu yang konsisten, proses tersertifikasi, dan jaringan penjualan global.",
+    "heroCtaPrimary": "Minta Penawaran",
+    "heroCtaSecondary": "Lihat Produk",
+    "heroSlides": [
+      {
+        "eyebrow": "Huanlejia Group · Indonesia",
+        "title": "Produk Kelapa Premium dari Jantung Indonesia",
+        "subtitle": "Didukung oleh grup makanan publik asal China, PT. Prima Coco Indonusa menyajikan bahan kelapa Indonesia berkualitas ke seluruh dunia — dengan mutu andal dan proses tersertifikasi."
+      },
+      {
+        "eyebrow": "Produksi Modern",
+        "title": "Dibuat di Indonesia, Dibuat dengan Sepenuh Hati",
+        "subtitle": "Masuklah ke fasilitas kami — dari penerimaan bahan baku hingga pengemasan dan pergudangan, setiap langkah dirancang demi kesegaran dan keamanan."
+      },
+      {
+        "eyebrow": "Ragam Produk",
+        "title": "Kelapa, Sesuai Kebutuhan Anda",
+        "subtitle": "Air kelapa, santan & krim, kelapa parut kering, dan minyak kelapa murni — untuk retail, foodservice, dan pembeli industri di seluruh dunia."
+      },
+      {
+        "eyebrow": "Jangkauan Global",
+        "title": "Grup Makanan Publik dengan Jangkauan Global",
+        "subtitle": "Bagian dari Huanlejia Food Group (300997.SZ) — beroperasi di China, Vietnam, Thailand, dan Indonesia, dipercaya mitra B2B di 30+ negara."
+      }
+    ],
+    "whyEyebrow": "Mengapa Memilih Kami",
+    "whyTitle": "Mitra Kelapa yang Tepercaya",
+    "whySubtitle": "Dari perkebunan Indonesia hingga rak dunia — mutu, kapasitas, dan layanan yang tumbuh bersama Anda.",
+    "whyItems": [
+      {
+        "title": "Kapasitas Andal",
+        "description": "Fasilitas modern dan output bulanan yang stabil, siap untuk pesanan global dalam volume besar."
+      },
+      {
+        "title": "Mutu Tersertifikasi",
+        "description": "Halal, HACCP, ISO, dan kepatuhan terhadap regulasi Indonesia di setiap tahap produksi."
+      },
+      {
+        "title": "Layanan Satu Pintu",
+        "description": "Dari pemilihan bahan baku, pengemasan, dokumen ekspor hingga purna jual — kami yang menangani."
+      }
+    ],
+    "productsEyebrow": "Produk Kami",
+    "productsTitle": "Kelapa, Sesuai Kebutuhan Anda",
+    "productsSubtitle": "Air kelapa, santan & krim kelapa, kelapa parut kering, dan minyak kelapa murni — untuk retail, foodservice, dan pembeli industri.",
+    "factoryEyebrow": "Pabrik Kami",
+    "factoryTitle": "Dibuat di Indonesia, Dibuat dengan Sepenuh Hati",
+    "factorySubtitle": "Masuklah ke fasilitas kami — dari penerimaan bahan baku hingga pengemasan dan pergudangan.",
+    "factoryVideoCaption": "Tur singkat pabrik & lini produksi",
+    "groupEyebrow": "Bagian dari Huanlejia Group",
+    "groupTitle": "Grup Makanan Publik dengan Jangkauan Global",
+    "groupSubtitle": "PT. Prima Coco Indonusa adalah bagian dari Huanlejia Food Group (300997.SZ), perusahaan makanan publik asal China dengan pengalaman puluhan tahun dan beroperasi di seluruh Asia.",
+    "groupCta": "Kenali Grup Kami",
+    "contactEyebrow": "Hubungi Kami",
+    "contactTitle": "Bicara dengan Tim Penjualan Kami",
+    "contactSubtitle": "Sampaikan kebutuhan Anda — perwakilan pelanggan kami akan merespons dalam 2 hari kerja."
+  },
+  "about": {
+    "eyebrow": "Tentang Kami",
+    "title": "Babak Baru untuk Kelapa",
+    "subtitle": "Kenali kami — produsen muda asal Indonesia yang didukung keahlian grup selama puluhan tahun.",
+    "companyIntroTitle": "Perusahaan dalam Sekilas",
+    "companyIntroBody": "PT. Prima Coco Indonusa adalah produsen produk kelapa yang berbasis di Indonesia, bagian dari Huanlejia Food Group (300997.SZ). Kami fokus memproduksi bahan kelapa premium — air kelapa, santan & krim kelapa, kelapa parut kering, dan minyak kelapa murni — untuk pelanggan B2B global di industri makanan, minuman, dan perawatan pribadi.",
+    "groupTitle": "Tentang Huanlejia Group",
+    "groupBody": "Huanlejia Food Group adalah perusahaan makanan terkemuka asal China yang terdaftar di Bursa Efek Shenzhen (Kode Saham: 300997). Dengan pengalaman puluhan tahun di industri makanan kaleng dan minuman, grup ini membangun portofolio multi-kategori dan memperluas jejaknya secara global dengan operasi di China, Vietnam, Thailand, dan Indonesia.",
+    "indonesiaTitle": "Tentang PT. Prima Coco Indonusa",
+    "indonesiaBody": "Didirikan sebagai pusat produksi kelapa grup di Indonesia, PT. Prima Coco Indonusa memanfaatkan keunggulan bahan baku Indonesia dan lini pengolahan modern untuk melayani pelanggan di seluruh dunia. Kami menggabungkan keunggulan bahan baku lokal dengan sistem mutu grup dan pengalaman penjualan internasional.",
+    "timelineTitle": "Tonggak Penting",
+    "timeline": [
+      { "year": "2001", "title": "Huanlejia didirikan di China", "description": "Awal mula grup di bidang manufaktur makanan & minuman." },
+      { "year": "2010", "title": "Kepemimpinan buah kalengan", "description": "Diakui sebagai merek buah kalengan terkemuka di China." },
+      { "year": "2016", "title": "PT. Prima Coco Indonusa didirikan", "description": "Pusat produksi kelapa didirikan pada 19 Februari 2016 di Sumatera Utara, Indonesia." },
+      { "year": "2021", "title": "Terdaftar di Bursa Shenzhen", "description": "Kode Saham: 300997 — grup makanan publik." },
+      { "year": "2023", "title": "Ekspansi global", "description": "Jaringan penjualan di Asia Tenggara, Timur Tengah, dan sekitarnya." },
+      { "year": "Hari ini", "title": "Mitra kelapa Anda", "description": "Pemasok andal untuk pelanggan B2B di seluruh dunia." }
+    ]
+  },
+  "group": {
+    "eyebrow": "Grup Kami",
+    "title": "Huanlejia Group di Seluruh Dunia",
+    "subtitle": "Grup makanan global dengan operasi di seantero Asia — dan jejak internasional yang terus berkembang.",
+    "intro": "Huanlejia Food Group (Bursa Shenzhen: 300997) adalah perusahaan induk dari PT. Prima Coco Indonusa. Berkantor pusat di China, grup ini mengoperasikan fasilitas produksi di China, Vietnam, Thailand, dan Indonesia — mencakup makanan kalengan, minuman, dan bahan baku berbasis kelapa.",
+    "statsTitle": "Grup dalam Angka",
+    "stats": [
+      { "value": "300997.SZ", "label": "Terdaftar di Bursa Efek Shenzhen" },
+      { "value": "20+", "label": "Tahun pengalaman di bidang pangan" },
+      { "value": "4", "label": "Negara tempat beroperasi" },
+      { "value": "Global", "label": "Penjualan ke 30+ negara" }
+    ],
+    "subsidiariesTitle": "Anak Perusahaan Kami",
+    "subsidiaries": [
+      {
+        "name": "Huanlejia Food Group",
+        "nameLocal": "欢乐家食品集团股份有限公司",
+        "country": "China",
+        "role": "Kantor Pusat",
+        "description": "Kantor pusat grup dan basis produksi inti — makanan kalengan, minuman, dan produk makanan ringan.",
+        "website": "https://www.gdhlj.com/"
+      },
+      {
+        "name": "Huanlejia Vietnam",
+        "nameLocal": "Huanlejia Co., Ltd.",
+        "country": "Vietnam",
+        "role": "Produksi & Penjualan",
+        "description": "Pusat produksi dan penjualan Asia Tenggara melayani pasar lokal dan ekspor.",
+        "website": "#"
+      },
+      {
+        "name": "Huanlejia Thailand",
+        "nameLocal": "Huanlejia (Thailand) Co., Ltd.",
+        "country": "Thailand",
+        "role": "Produksi & Penjualan",
+        "description": "Fasilitas produksi regional melayani industri makanan dan minuman di kawasan ini.",
+        "website": "#"
+      },
+      {
+        "name": "PT. Prima Coco Indonusa",
+        "nameLocal": "PT. Prima Coco Indonusa",
+        "country": "Indonesia",
+        "role": "Produksi Kelapa",
+        "description": "Pusat produksi produk kelapa grup — bahan kelapa premium untuk pelanggan B2B global.",
+        "website": "https://id.gdhlj.com/"
+      }
+    ]
+  },
+  "factory": {
+    "eyebrow": "Pabrik Kami",
+    "title": "Di Dalam Fasilitas Kami",
+    "subtitle": "Lini pengolahan modern, kontrol mutu ketat, dan penghormatan mendalam terhadap bahan baku.",
+    "intro": "Fasilitas produksi kami berlokasi di Kabupaten Langkat, Sumatera Utara, Indonesia. Tempat ini menggabungkan teknologi pengolahan modern dengan manajemen keamanan pangan yang disiplin. Setiap batch dapat ditelusuri dari bahan baku hingga produk jadi.",
+    "locationTitle": "Lokasi Pabrik",
+    "locationLine": "Kabupaten Langkat, Sumatera Utara, Indonesia",
+    "registeredOfficeTitle": "Alamat Terdaftar",
+    "registeredOfficeLine": "Jl. Kapt Pattimura No.92/356-A, Kota Medan",
+    "statsTitle": "Kapasitas dalam Sekilas",
+    "statsNote": "Angka akan dikonfirmasi oleh tim operasional.",
+    "stats": [
+      { "value": "—", "label": "Ton kapasitas tahunan" },
+      { "value": "—", "label": "Lini otomatis" },
+      { "value": "—", "label": "Karyawan terampil" },
+      { "value": "—", "label": "Pemantauan mutu" }
+    ],
+    "processTitle": "Dari Kelapa ke Kemasan",
+    "processSubtitle": "Setiap langkah rantai produksi — dirancang demi kesegaran, keamanan, dan konsistensi.",
+    "process": [
+      { "step": "01", "title": "Penerimaan Bahan Baku", "description": "Kelapa pilihan dari perkebunan lokal — penyortiran ketat saat kedatangan." },
+      { "step": "02", "title": "Pembelahan & Ekstraksi", "description": "Pembelahan bersih dan ekstraksi higienis untuk menjaga kualitas alami." },
+      { "step": "03", "title": "Pencucian & Penyaringan", "description": "Pencucian dan penyaringan bertahap untuk hasil yang bersih dan murni." },
+      { "step": "04", "title": "Sterilisasi", "description": "Sterilisasi suhu tinggi untuk memastikan keamanan pangan dan umur simpan." },
+      { "step": "05", "title": "Pengisian & Penyegelan", "description": "Pengisian dan penyegelan aseptik untuk menjaga kesegaran dan rasa." },
+      { "step": "06", "title": "Pengemasan & Pergudangan", "description": "Dikemas sesuai spesifikasi pelanggan dan disimpan di gudang ber-AC." }
+    ],
+    "galleryTitle": "Galeri Pabrik",
+    "videoTitle": "Saksikan Tur Singkatnya",
+    "videoSubtitle": "Tur 60 detik di fasilitas kami di Indonesia."
+  },
+  "products": {
+    "eyebrow": "Produk Kami",
+    "title": "Kelapa, Sesuai Kebutuhan Anda",
+    "subtitle": "Rangkaian fokus bahan kelapa premium — untuk retail, foodservice, dan pembeli industri.",
+    "categoriesTitle": "Kategori Produk",
+    "listTitle": "Semua Produk",
+    "specsTitle": "Spesifikasi",
+    "downloadTitle": "Unduh Lembar Spesifikasi",
+    "downloadSubtitle": "Lembar spesifikasi lengkap tersedia untuk setiap lini produk.",
+    "categories": [
+      {
+        "key": "water",
+        "name": "Air Kelapa",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=fresh%20coconut%20water%20in%20a%20clear%20glass%20bottle%20on%20tropical%20background%20product%20photography&image_size=square",
+        "description": "Air kelapa murni yang menyegarkan, dikemas di puncak panen."
+      },
+      {
+        "key": "milk",
+        "name": "Santan & Krim Kelapa",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20milk%20cream%20in%20a%20white%20can%20package%20product%20photography%20studio%20lighting&image_size=square",
+        "description": "Santan dan krim yang kaya serta halus untuk memasak dan manufaktur pangan."
+      },
+      {
+        "key": "desiccated",
+        "name": "Kelapa Parut Kering",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=desiccated%20coconut%20flakes%20in%20a%20paper%20bag%20package%20product%20photography&image_size=square",
+        "description": "Kelapa parut kering halus dan tersortir untuk bakery dan confectionery."
+      },
+      {
+        "key": "oil",
+        "name": "Minyak Kelapa Murni (VCO)",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=virgin%20coconut%20oil%20in%20glass%20bottle%20product%20photography%20studio%20lighting&image_size=square",
+        "description": "Minyak kelapa murni cold-pressed untuk pangan, kosmetik, dan kesehatan."
+      }
+    ],
+    "items": [
+      {
+        "id": "cw-330",
+        "category": "water",
+        "name": "Air Kelapa 330ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20water%20tetra%20pack%20330ml%20product%20photography%20white%20background&image_size=square",
+        "summary": "Air kelapa murni dalam kemasan praktis 330ml.",
+        "specs": {
+          "netWeight": "330ml",
+          "brix": "5,0 – 6,5°",
+          "shelfLife": "12 bulan",
+          "storage": "Suhu ruang, tempat kering dan sejuk",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      },
+      {
+        "id": "cw-500",
+        "category": "water",
+        "name": "Air Kelapa 500ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20water%20bottle%20500ml%20product%20photography%20white%20background&image_size=square",
+        "summary": "Air kelapa murni dalam kemasan keluarga 500ml.",
+        "specs": {
+          "netWeight": "500ml",
+          "brix": "5,0 – 6,5°",
+          "shelfLife": "12 bulan",
+          "storage": "Suhu ruang, tempat kering dan sejuk",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      },
+      {
+        "id": "cm-400",
+        "category": "milk",
+        "name": "Santan Kelapa 400ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=coconut%20milk%20can%20400ml%20product%20photography%20studio%20lighting&image_size=square",
+        "summary": "Santan kaya dalam kaleng praktis 400ml.",
+        "specs": {
+          "netWeight": "400ml",
+          "fat": "17 – 19%",
+          "shelfLife": "24 bulan",
+          "storage": "Suhu ruang, tempat kering dan sejuk",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      },
+      {
+        "id": "dc-medium",
+        "category": "desiccated",
+        "name": "Kelapa Parut Kering — Medium",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=desiccated%20coconut%20medium%20grade%20in%20package%20product%20photography&image_size=square",
+        "summary": "Kelapa parut kering grade medium, ideal untuk bakery dan confectionery.",
+        "specs": {
+          "netWeight": "25 kg / 50 lb per karung",
+          "moisture": "< 3%",
+          "shelfLife": "12 bulan",
+          "storage": "Tempat sejuk dan kering",
+          "certification": "Halal, HACCP"
+        }
+      },
+      {
+        "id": "vco-500",
+        "category": "oil",
+        "name": "Minyak Kelapa Murni 500ml",
+        "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=virgin%20coconut%20oil%20glass%20bottle%20500ml%20product%20photography&image_size=square",
+        "summary": "Minyak kelapa murni cold-pressed dalam botol kaca premium 500ml.",
+        "specs": {
+          "netWeight": "500ml",
+          "fat": "100% minyak kelapa",
+          "shelfLife": "24 bulan",
+          "storage": "Tempat sejuk dan kering, hindarkan dari sinar matahari langsung",
+          "certification": "Halal, HACCP, ISO 22000"
+        }
+      }
+    ]
+  },
+  "quality": {
+    "eyebrow": "Kualitas & Sertifikasi",
+    "title": "Tersertifikasi di Setiap Tahap",
+    "subtitle": "Kami beroperasi di bawah kerangka regulasi internasional dan Indonesia yang ketat.",
+    "introTitle": "Kualitas yang Dapat Anda Verifikasi",
+    "intro": "Dari pemeriksaan bahan baku hingga pelepasan produk jadi, setiap langkah mengikuti prosedur terdokumentasi. Fasilitas kami diaudit secara berkala oleh badan regulasi internasional dan Indonesia.",
+    "viewDoc": "Lihat Dokumen",
+    "downloadDoc": "Unduh",
+    "availableOnRequest": "Tersedia atas permintaan",
+    "categories": {
+      "food": "Pangan & Mutu",
+      "business": "Bisnis & Perdagangan",
+      "environment": "Lingkungan & Keselamatan",
+      "labour": "Ketenagakerjaan & Kepatuhan"
+    },
+    "items": [
+      {
+        "name": "Sertifikat Halal",
+        "category": "food",
+        "issuer": "BPJPH / MUI",
+        "description": "Tersertifikasi halal oleh otoritas halal Indonesia yang berwenang.",
+        "status": "on-request"
+      },
+      {
+        "name": "HACCP",
+        "category": "food",
+        "issuer": "Lembaga Internasional",
+        "description": "Sistem manajemen keamanan pangan HACCP.",
+        "status": "on-request"
+      },
+      {
+        "name": "ISO 22000",
+        "category": "food",
+        "issuer": "Lembaga Internasional",
+        "description": "Sertifikasi sistem manajemen keamanan pangan.",
+        "status": "on-request"
+      },
+      {
+        "name": "BPOM",
+        "category": "food",
+        "issuer": "BPOM Indonesia",
+        "description": "Registrasi otoritas pangan dan obat Indonesia.",
+        "status": "on-request"
+      },
+      {
+        "name": "NIB OSS",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia (OSS)",
+        "description": "Nomor Induk Berusaha 8120000912538 — standar perizinan berbasis risiko melalui sistem OSS (terbit 5 April 2022).",
+        "file": "/certificates/nib-oss.pdf"
+      },
+      {
+        "name": "Izin Komersial (Operasional)",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Izin Komersial / Operasional — persetujuan berisiko melalui OSS RBA.",
+        "file": "/certificates/izin-komersial.pdf"
+      },
+      {
+        "name": "SIUP — Surat Izin Usaha Perdagangan",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Surat Izin Usaha Perdagangan — skala Besar.",
+        "file": "/certificates/siup.pdf"
+      },
+      {
+        "name": "Izin Lokasi",
+        "category": "business",
+        "issuer": "BKPM / Pemerintah Indonesia",
+        "description": "Izin lokasi untuk fasilitas produksi.",
+        "file": "/certificates/izin-lokasi.pdf"
+      },
+      {
+        "name": "Izin Lingkungan",
+        "category": "environment",
+        "issuer": "Dinas Lingkungan Hidup",
+        "description": "Izin lingkungan yang diterbitkan oleh Dinas Lingkungan setempat.",
+        "file": "/certificates/izin-lingkungan.pdf"
+      },
+      {
+        "name": "UKL-UPL",
+        "category": "environment",
+        "issuer": "Dinas Lingkungan Hidup",
+        "description": "Upaya Pengelolaan dan Pemantauan Lingkungan Hidup — sesuai UU Lingkungan Indonesia.",
+        "file": "/certificates/ukl-upl.pdf"
+      },
+      {
+        "name": "IPAL — Izin Pembuangan Air Limbah",
+        "category": "environment",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Izin pembuangan air limbah untuk instalasi pengolahan kami (terbit 22 September 2020).",
+        "file": "/certificates/ipal.pdf"
+      },
+      {
+        "name": "Sertifikat Laik Operasi",
+        "category": "environment",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Sertifikat kelayakan operasi yang memastikan kondisi produksi aman.",
+        "file": "/certificates/sertifikat-laik-operasi.pdf"
+      },
+      {
+        "name": "Izin Pengusahaan Air Tanah",
+        "category": "environment",
+        "issuer": "Dinas ESDM",
+        "description": "Izin pengambilan air tanah (berlaku 26 Agt 2026 – 26 Agt 2030).",
+        "file": "/certificates/izin-air-tanah.pdf"
+      },
+      {
+        "name": "DISNAKER",
+        "category": "labour",
+        "issuer": "Dinas Tenaga Kerja",
+        "description": "Laporan kepatuhan ketenagakerjaan (berlaku 23 Jan 2024 – 24 Jan 2026).",
+        "file": "/certificates/disnaker.pdf"
+      },
+      {
+        "name": "BPJS Kesehatan",
+        "category": "labour",
+        "issuer": "BPJS Indonesia",
+        "description": "Registrasi jaminan sosial kesehatan karyawan.",
+        "file": "/certificates/bpjs-kesehatan.pdf"
+      },
+      {
+        "name": "BPJS Ketenagakerjaan",
+        "category": "labour",
+        "issuer": "BPJS Indonesia",
+        "description": "Registrasi jaminan sosial ketenagakerjaan karyawan.",
+        "file": "/certificates/bpjs-ketenagakerjaan.pdf"
+      },
+      {
+        "name": "Surat Izin Tempat Usaha (SITU)",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Izin tempat usaha untuk lokasi operasional.",
+        "file": "/certificates/situ.pdf"
+      },
+      {
+        "name": "Surat Izin Mendirikan Bangunan (SIMB)",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Izin mendirikan bangunan untuk struktur pabrik.",
+        "file": "/certificates/simb.pdf"
+      },
+      {
+        "name": "Izin Gangguan (HO)",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Izin gangguan untuk kegiatan operasional.",
+        "file": "/certificates/izin-gangguan.pdf"
+      },
+      {
+        "name": "Surat Keterangan Domisili Usaha",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Surat keterangan domisili perusahaan.",
+        "file": "/certificates/domisili-usaha.pdf"
+      },
+      {
+        "name": "Tanda Daftar Perusahaan (TDP)",
+        "category": "business",
+        "issuer": "Pemerintah Indonesia",
+        "description": "Tanda daftar perusahaan.",
+        "file": "/certificates/tanda-daftar-perusahaan.pdf"
+      },
+      {
+        "name": "Akta Pendirian PT",
+        "category": "business",
+        "issuer": "Notaris",
+        "description": "Akta pendirian PT. Prima Coco Indonusa — 19 Februari 2016.",
+        "file": "/certificates/akta-pendirian.pdf"
+      },
+      {
+        "name": "AHU Pengesahan Pendirian",
+        "category": "business",
+        "issuer": "Kementerian Hukum dan HAM",
+        "description": "Pengesahan pendirian dari Kementerian Hukum & HAM.",
+        "file": "/certificates/ahu-pengesahan.pdf"
+      }
+    ]
+  },
+  "sales": {
+    "eyebrow": "Jaringan Penjualan",
+    "title": "Dari Indonesia ke Seluruh Dunia",
+    "subtitle": "Kami melayani pelanggan B2B di Asia Tenggara, Timur Tengah, Eropa, Amerika, dan sekitarnya.",
+    "intro": "PT. Prima Coco Indonusa mengekspor bahan kelapa ke distributor, manufaktur, dan pemilik merek di seluruh dunia. Sampaikan pasar Anda — kami akan menemukan rute terbaik.",
+    "regionsTitle": "Wilayah Utama",
+    "regions": [
+      { "name": "Asia Tenggara", "description": "Distributor dan manufaktur pangan di seluruh ASEAN." },
+      { "name": "Timur Tengah & Afrika", "description": "Pembeli foodservice, retail, dan industri." },
+      { "name": "Eropa", "description": "Importir spesialis dan merek makanan bersertifikat." },
+      { "name": "Amerika", "description": "Mitra grosir dan private-label." },
+      { "name": "Greater China", "description": "Pasokan langsung ke jaringan Huanlejia Group." }
+    ],
+    "channelTitle": "Channel yang Kami Layani",
+    "channels": [
+      { "title": "Distributor & Grosir", "description": "Pasokan massal dengan mutu konsisten dan pengiriman tepat waktu." },
+      { "title": "Manufaktur Makanan & Minuman", "description": "Bahan grade industri dengan lembar spesifikasi dan sertifikat lengkap." },
+      { "title": "Operator Foodservice", "description": "Jaringan restoran, katering, dan hospitality." },
+      { "title": "Retail & Private Label", "description": "Kemasan yang dapat dikustomisasi untuk merek retail dan private label." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Hubungi Kami",
+    "title": "Mari Berbicara Bisnis",
+    "subtitle": "Kirim pesan kepada kami — perwakilan penjualan kami akan merespons dalam 2 hari kerja.",
+    "infoTitle": "Hubungi Kami Secara Langsung",
+    "addressLabel": "Alamat Terdaftar",
+    "addressLine": "Jl. Kapt Pattimura No.92/356-A, Medan Baru",
+    "cityOfMedan": "Kota Medan, Sumatera Utara, Indonesia",
+    "officeHours": "Senin – Jumat · 08:00 – 17:00 WIB",
+    "whatsappLabel": "Chat via WhatsApp",
+    "legalTitle": "Identitas Hukum & Pajak",
+    "legalCompanyName": "PT. Prima Coco Indonusa",
+    "legalCompanyLabel": "Badan Hukum",
+    "legalNpwpLabel": "NPWP",
+    "legalNpwp": "75.607.625.3-121.000",
+    "legalNibLabel": "NIB (OSS)",
+    "legalNib": "8120000912538",
+    "legalKppLabel": "Kantor Pajak",
+    "legalKpp": "KPP Pratama Medan Polonia",
+    "legalFoundedLabel": "Didirikan",
+    "legalFounded": "19 Februari 2016",
+    "form": {
+      "name": "Nama Lengkap",
+      "company": "Perusahaan",
+      "email": "Email",
+      "phone": "Telepon / WhatsApp",
+      "country": "Negara / Wilayah",
+      "product": "Produk yang Diminati",
+      "message": "Pesan Anda",
+      "submit": "Kirim Permintaan",
+      "sending": "Mengirim...",
+      "success": "Terima kasih — kami telah menerima permintaan Anda dan akan segera menghubungi Anda.",
+      "required": "Wajib diisi"
+    },
+    "formTitle": "Kirim Permintaan"
+  },
+  "footer": {
+    "tagline": "Bahan kelapa premium — dari Indonesia ke seluruh dunia.",
+    "company": "Perusahaan",
+    "products": "Produk",
+    "contact": "Kontak",
+    "newsletter": "Tetap Terhubung",
+    "newsletterPlaceholder": "Email Anda",
+    "subscribe": "Berlangganan",
+    "partOf": "Bagian dari"
+  }
+}
